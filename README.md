@@ -1,9 +1,9 @@
 # usage 
 
-#$ git clone https://github.com/MrR3DH3T/Dwipantara.git
-#$ cd Dwipantara
-#$ chmod +x dwipantara 
-#$ ./dwipantara 
+# $ git clone https://github.com/MrR3DH3T/Dwipantara.git
+# $ cd Dwipantara
+# $ chmod +x dwipantara 
+# $ ./dwipantara 
 
 terima kasih sudah memakai tools dwipantara 
 
