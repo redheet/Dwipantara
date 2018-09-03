@@ -193,11 +193,15 @@ sleep 3
 echo -e $red" Jangan pacaran mulu! , Jika kamu diam saat agamamu dihina gantilah pakaianmu dengan kain kafan "
 echo ""
 sleep 3
+echo -e $red" Islam bagaikan buih di lautan ( Banyak orang islam tapi tidak tahu islam yang sesungguhnya ) "
+echo ""
+sleep 3
 echo -e $okegreen" Semangat Berjuang Demi Membela Kebenaran! TAKBIR! " 
 echo ""
 sleep 3
 echo -e $lightgreen" Saling memaafkan sesama sodara , wa alfu minkum wassalamu'alaikum warrohmatullohi wabarokatuhu "
 echo ""
+sleep 3
 fi
 
 if [ $dwipan = 2 ] || [ $dwipan = 02 ]
