@@ -1,10 +1,10 @@
 # usage 
 
-● $ apt-get install git
-● $ git clone https://github.com/MrR3DH3T/Dwipantara.git
-● $ cd Dwipantara
-● $ chmod +x dwipantara 
-● $ ./dwipantara 
+#● $ apt-get install git
+#● $ git clone https://github.com/MrR3DH3T/Dwipantara.git
+#● $ cd Dwipantara
+#● $ chmod +x dwipantara 
+#● $ ./dwipantara 
 
 terima kasih sudah memakai tools dwipantara 
 
