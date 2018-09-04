@@ -222,7 +222,7 @@ clear
 echo -e $cyan" Terima Kasih Sudah Memakai Tools DWIPANTARA "
 sleep 2
 echo ""
-echo -e $blue" Dunia Itu Hanya Sesaat, Jadi Berbuatlah Baik Untuk Akhiratmu "
+echo -e $red" Dunia Itu Hanya Sesaat, Jadi Berbuatlah Baik Untuk Akhiratmu "
 sleep 2
 echo ""
 echo -e $cyan" ├─   DWIPANTARA   ─┤" 
