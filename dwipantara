@@ -791,11 +791,12 @@ fi
 if [ $dwipan = 24 ] || [ $dwipan = 024 ]
 then
 clear
-echo $blue" [ Installing Instagram ] "
+echo -e $blue" [ Installing Instagram ] "
 git clone https://github.com/Pure-L0G1C/Instagram.git
 cd Instagram
 pip install -r requirements.txt
 chmod +x *.py
+echo ""
 echo -e "${green} python instagram.py <username> <wordlis> <threads> "
 echo ""
 echo -e "${green} (ex) python instagram.py cikukba wordlist.txt 16 "
