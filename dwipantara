@@ -86,7 +86,7 @@ function CheckTools ()
    echo -e "${yellow}Installing Wget for PC"
    apt-get install wget -y;;
    Android)
-   echo -e "${yellow}Installing Wgt for Termux"
+   echo -e "${yellow}Installing Wget for Termux"
    pkg install wget -y;;
    esac
    echo -e $okegreen "[  Wget  ] Done installing [ ✔ ]"
@@ -222,7 +222,7 @@ clear
 echo -e $cyan" Terima Kasih Sudah Memakai Tools DWIPANTARA "
 sleep 2
 echo ""
-echo -e $cyan" Dunia Itu Hanya Sesaat, Jadi Berbuatlah Baik Untuk Akhiratmu "
+echo -e $blue" Dunia Itu Hanya Sesaat, Jadi Berbuatlah Baik Untuk Akhiratmu "
 sleep 2
 echo ""
 echo -e $cyan" ├─   DWIPANTARA   ─┤" 
@@ -709,11 +709,12 @@ if [ $dwipan = 19 ] || [ $dwipan = 019 ]
 then
 clear
 echo -e $blue"   [ Instaling websploit ] "
-git clone https://github.com/websploit/websploit.git
+git clone https://github.com/The404Hacking/websploit.git
 cd websploit
-chmod +x websploit
+chmod +x *.py
 sleep 0.6
-echo -e $green" usage ? ./websploit or python2 websploit "
+echo -e $green" usage ? use python2 or python"
+echo -e "${yellow}            └> termux   └> GNU/Linux PC"
 echo ""
 sleep 2
 echo -e $red" { Done Install bro } "
