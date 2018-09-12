@@ -709,6 +709,10 @@ if [ $dwipan = 19 ] || [ $dwipan = 019 ]
 then
 clear
 echo -e $blue"   [ Instaling websploit ] "
+apt install python2
+pip2 install request
+pip inatall --upgrade pip
+pip2 install scapy
 git clone https://github.com/The404Hacking/websploit.git
 cd websploit
 chmod +x *.py
