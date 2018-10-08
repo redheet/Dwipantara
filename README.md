@@ -32,6 +32,6 @@ chmod a+x dwipantara
 <h2>BUG</h2>
 <ul>
 <li>Submit new issues</li>
-<li>if you find problem call me on instagram <a herf="https://instagram.com/naufalziidane_">https://instagram.com/naufalziidane_</a></li>
+<li>if you find problem call me on instagram <a href="https://instagram.com/naufalziidane_">https://instagram.com/naufalziidane_</a></li>
 <li>Don't Forget to follow my instagram . Thanks</li>
 <ul>
