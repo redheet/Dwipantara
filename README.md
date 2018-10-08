@@ -1,8 +1,9 @@
 <h1>Dwipantara Indonesia</h1>
+
 Dwipantara tools v 2.3
 
-Don't forget to update this tools in every months
-Don't Be Afraid For Hacking
+<li>Don't forget to update this tools in every months</li>
+<li>Don't Be Afraid For Hacking</li>
 
 ## Install
 
@@ -25,7 +26,7 @@ chmod a+x dwipantara
   
 <h2>Alert !</h2>
 
-Linux PC tools can be used on Android root
+<li>Linux PC tools can be used on Android root</li>
 
 
 <h2>BUG</h2>
