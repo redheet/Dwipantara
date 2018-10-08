@@ -7,17 +7,16 @@ Don't Be Afraid For Hacking
 # Install 
 
 # Linux PC
-
-  git clone https://github.com/MrR3DH3T/Dwipantara.git
-  chmod +x dwipantara
-  bash dwipantara
+git clone https://github.com/MrR3DH3T/Dwipantara.git
+chmod +x dwipantara
+bash dwipantara
   
 # Termux 
 
-  apt install git 
-  git clone https://github.com/MrR3DH3T/Dwipantara.git
-  chmod a+x dwipantara
-  ./dwipantara or bash dwipantara
+apt install git 
+git clone https://github.com/MrR3DH3T/Dwipantara.git
+chmod a+x dwipantara
+./dwipantara or bash dwipantara
   
   
 # Alert !
