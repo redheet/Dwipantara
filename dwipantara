@@ -1311,7 +1311,7 @@ function darkpo()
 	echo -e "${okegreen} Done Install Requirements DarkSploit [ ✔ ] ";;
 	esac
 }
-https://github.com/anthrax3/DarkSploit.git
+git clone https://github.com/anthrax3/DarkSploit.git
 sleep 0.1
 cd DarkSploit
 ./installgnuroot
@@ -1336,7 +1336,7 @@ fi
 if [ $dwipan = 50 ] || [ $dwipan = 050 ]
 then
 clear
-echo -e "${blue} [ Installing AIMSICD ] "
+echo -e "${blue} [ Download AIMSICD ] "
 echo""
 echo -e "${okegreen} This tools For protect your self from Hacker , Fake tower call . "
 echo -e "${okegreen} Because Hacker and tower call stole information on Your device . "
