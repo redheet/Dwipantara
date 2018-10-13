@@ -5,9 +5,9 @@ Dwipantara tools v 2.3
 <li>Don't forget to update this tools in every months</li>
 <li>Don't Be Afraid For Hacking</li>
 
-## Install
 
-## Linux PC
+## Install on [Linux](https://wikipedia.org/wiki/Linux) [![alt tag](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](https://fr.wikipedia.org/wiki/Linux)
+
 
 ```bash
 git clone https://github.com/MrR3DH3T/Dwipantara.git
@@ -15,7 +15,8 @@ chmod +x dwipantara
 bash dwipantara
  ```
  
-## Termux 
+## Install on Android [Android](https://wikipedia.org/wiki/Android) [![alt tag](https://cdn1.iconfinder.com/data/icons/logotypes/32/android-32.png)](https://fr.wikipedia.org/wiki/Android)
+Download [Termux](https://play.google.com/store/apps/details?id=com.termux)
 
 ```bash
 apt install git 
