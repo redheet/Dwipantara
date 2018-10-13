@@ -21,7 +21,7 @@ white='\e[1;37m'
 nc='\e[0m'
 
 clear
-echo -e $lightblue" { ✔ }     Updating Dwipantara     { ✔ }"
+echo -e $lightblue"  { ✔ }     Updating Dwipantara     { ✔ }"
 rm -rf dwipantara
 wget https://raw.githubusercontent.com/MrR3DH3T/Dwipantara/master/dwipantara 2> /dev/null
 chmod a+x dwipantara
@@ -42,4 +42,4 @@ bar
 echo""
 echo""
 echo""
-echo -e $lightpurple" 		{ ✔ }    Finish Updating    { ✔ }"
+echo -e $lightpurple" { ✔ }    Finish Updating    { ✔ }"
