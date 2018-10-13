@@ -253,7 +253,7 @@ sleep 2
 clear
 function firsttools() {
 echo -e "${yellow}Alert!"
-echo -e "${yellow}Any = Linux PC        |   N = Next tools      |   Version   |"
+echo -e "${yellow}Any = Linux / Android |   N = Next tools      |   Version   |"
 echo -e "${yellow}GNU/Linux = Linux PC  |   P = Prev tools      |             |"
 echo -e "${yellow}Android = Termux      |   C = Contact Author  |     2.3     |"
 echo -e $red"+-----+--------------------------------------+-----------------------+"
@@ -316,7 +316,7 @@ sleep 0.1
 }
 function secondtools() {
 echo -e "${yellow}Alert!"
-echo -e "${yellow}Any = Linux PC        |   N = Next tools      |   Version   |"
+echo -e "${yellow}Any = Linux / Android |   N = Next tools      |   Version   |"
 echo -e "${yellow}GNU/Linux = Linux PC  |   P = Prev tools      |             |"
 echo -e "${yellow}Android = Termux      |   C = Contact Author  |     2.3     |"
 echo -e $red"+-----+--------------------------------------+-----------------------+"
