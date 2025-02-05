@@ -6,7 +6,7 @@ Dwipantara tools v 2.3
 <li>Don't Be Afraid For Hacking</li>
 
 
-## Install on [Linux](https://wikipedia.org/wiki/Linux) [![alt tag](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](https://fr.wikipedia.org/wiki/Linux)
+## Install on [Linux](https://wikipedia.org/wiki/Linux) [![alt tag](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](https://wikipedia.org/wiki/Linux)
 
 
 ```bash
@@ -15,7 +15,7 @@ chmod +x dwipantara
 bash dwipantara
  ```
  
-## Install on [Android](https://wikipedia.org/wiki/Android) [![alt tag](https://cdn1.iconfinder.com/data/icons/logotypes/32/android-32.png)](https://fr.wikipedia.org/wiki/Android)
+## Install on [Android](https://wikipedia.org/wiki/Android) [![alt tag](https://cdn1.iconfinder.com/data/icons/logotypes/32/android-32.png)](https://wikipedia.org/wiki/Android)
 Download [Termux](https://play.google.com/store/apps/details?id=com.termux)
 
 ```bash
